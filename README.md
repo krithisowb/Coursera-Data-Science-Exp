@@ -1,2 +1,2 @@
-# Coursera-Data-Science-Exp
+# Coursera-Data-Science-Git
 Git Hub for my experience with coursera
